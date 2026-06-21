@@ -1,0 +1,13 @@
+{
+  "name": "meetup-event-radar",
+  "version": "1.0.0",
+  "description": "Small HTML/CSS/JS app for monitoring public Meetup group events by category.",
+  "private": true,
+  "scripts": {
+    "start": "node proxy-server.js",
+    "serve": "python3 -m http.server 8080"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

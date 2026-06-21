@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Meetup Event Radar</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="app-header">
+    <div>
+      <p class="eyebrow">Meetup Event Radar</p>
+      <h1>Upcoming events by category</h1>
+      <p class="lede">Monitor selected Meetup groups, categorise public events, and surface what is worth attending over the next 90 days.</p>
+    </div>
+    <div class="header-card">
+      <span id="statusDot" class="status-dot idle"></span>
+      <span id="statusText">Ready</span>
+    </div>
+  </header>
+
+  <main>
+    <section class="controls panel">
+      <div>
+        <label for="proxyBase">Proxy base URL</label>
+        <input id="proxyBase" type="url" value="http://localhost:8787/fetch?url=" />
+      </div>
+      <div>
+        <label for="daysAhead">Days ahead</label>
+        <input id="daysAhead" type="number" min="1" max="365" value="90" />
+      </div>
+      <div>
+        <label for="searchBox">Search</label>
+        <input id="searchBox" type="search" placeholder="museum, cloud, pub, security..." />
+      </div>
+      <button id="scanButton" type="button">Scan groups</button>
+      <button id="exportButton" type="button" disabled>Export CSV</button>
+    </section>
+
+    <section class="summary-grid" id="summaryGrid" aria-live="polite"></section>
+
+    <section class="panel">
+      <div class="section-heading">
+        <div>
+          <h2>Events</h2>
+          <p id="resultMeta">No scan run yet.</p>
+        </div>
+        <select id="categoryFilter" aria-label="Filter by category">
+          <option value="all">All categories</option>
+        </select>
+      </div>
+      <div id="eventList" class="event-list"></div>
+    </section>
+
+    <section class="panel muted-panel">
+      <h2>Configured groups</h2>
+      <p>Edit <code>GROUP_URLS</code> in <code>app.js</code> to add your Meetup groups.</p>
+      <ul id="groupList" class="group-list"></ul>
+    </section>
+  </main>
+
+  <template id="eventCardTemplate">
+    <article class="event-card">
+      <div class="event-topline">
+        <span class="category-pill"></span>
+        <span class="score-pill"></span>
+      </div>
+      <h3></h3>
+      <p class="event-meta"></p>
+      <p class="event-description"></p>
+      <div class="event-footer">
+        <a target="_blank" rel="noopener noreferrer">Open event</a>
+        <span class="group-name"></span>
+      </div>
+    </article>
+  </template>
+
+  <script src="app.js"></script>
+</body>
+</html>
