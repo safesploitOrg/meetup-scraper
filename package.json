@@ -1,0 +1,14 @@
+{
+  "name": "meetup-event-radar",
+  "version": "2.0.0",
+  "description": "Static GitHub Pages dashboard for public Meetup events, updated by GitHub Actions.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "scrape": "node scripts/scrape-meetup.js",
+    "serve": "python3 -m http.server 8080"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

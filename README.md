@@ -1,82 +1,100 @@
 # Meetup Event Radar
 
-A small HTML/CSS/JS application for monitoring public Meetup group event pages and categorising events for the next 90 days.
+A static GitHub Pages dashboard for tracking public Meetup events across selected London tech groups.
 
-## What it does
+The browser app does **not** scrape Meetup directly. Instead:
 
-- Keeps group URLs in `GROUP_URLS` inside `app.js`.
-- Fetches each group's `/events/` page.
-- Extracts public Meetup event URLs.
-- Fetches each event page.
-- Parses public event metadata from the page.
-- Categorises events into Social, Conference/Professional, Cloud/DevOps, Security/Hacker, AI/Data, Culture/Museum, or Other.
-- Filters to the next N days, default 90.
-- Exports CSV.
+1. `scripts/scrape-meetup.js` runs in GitHub Actions or locally.
+2. It fetches public `/events/` pages and public event pages.
+3. It writes `data/events.json`.
+4. `index.html` + `app.js` load that local JSON file and render the dashboard.
 
-## Important limitation
+This avoids browser CORS issues and means GitHub Pages can host the app without a live Node server.
 
-A browser-only app cannot usually fetch `meetup.com` pages directly because of CORS. This project includes a tiny local proxy for personal, read-only use against public event pages.
+## Watched Meetup groups
 
-Meetup's own terms restrict commercial data extraction and automated scraping. Keep this personal, low-rate, and public-data-only.
+The scraper currently watches:
 
-## Run locally
+- <https://www.meetup.com/london-devops/>
+- <https://www.meetup.com/devsecops-london-gathering/>
+- <https://www.meetup.com/ansible-london/>
+- <https://www.meetup.com/apache-kafka-london/>
+- <https://www.meetup.com/awsuguk/>
+- <https://www.meetup.com/cloud-native-london/>
+- <https://www.meetup.com/devops-exchange-london/>
+- <https://www.meetup.com/grafana-and-friends-london/>
+- <https://www.meetup.com/londonlinux/>
+- <https://www.meetup.com/london-microservices/>
+- <https://www.meetup.com/platform-engineers-london/>
 
-Terminal 1:
+Edit the `GROUP_URLS` array in `scripts/scrape-meetup.js` to add or remove groups.
+
+## Local usage
 
 ```bash
-cd public
-npm start
+npm run scrape
+npm run serve
 ```
 
-Terminal 2:
-
-```bash
-cd public
-python3 -m http.server 8080
-```
-
-Open:
+Then open:
 
 ```text
 http://localhost:8080
 ```
 
-Then click **Scan groups**.
+## GitHub Pages usage
 
-## Add groups
+1. Push this folder to a GitHub repository.
+2. In GitHub, go to **Settings → Pages**.
+3. Set the Pages source to deploy from the branch that contains `index.html`, or use your preferred Pages workflow.
+4. Go to **Actions → Update Meetup Events → Run workflow** to generate the first `data/events.json`.
+5. The scheduled workflow then refreshes the JSON every 12 hours.
 
-Edit `app.js`:
+## How the scheduled refresh works
 
-```js
-const GROUP_URLS = [
-  "https://www.meetup.com/hackernewslondon/",
-  "https://www.meetup.com/another-group/",
-];
+`.github/workflows/update-events.yml` runs:
+
+```bash
+npm run scrape
 ```
 
-The app automatically turns each group URL into:
+Then commits `data/events.json` back to the repository if the event data changed.
+
+## Configuration
+
+Environment variables supported by the scraper:
+
+| Variable | Default | Purpose |
+|---|---:|---|
+| `DAYS_AHEAD` | `90` | Only include events within this many days |
+| `MAX_EVENT_PAGES_PER_GROUP` | `30` | Limit event page fetches per group |
+| `REQUEST_DELAY_MS` | `1500` | Delay between requests |
+| `REQUEST_TIMEOUT_MS` | `25000` | HTTP timeout per request |
+| `USER_AGENT` | built-in | User-Agent header for requests |
+
+## Notes and limitations
+
+- This only uses public Meetup pages.
+- It does not use Meetup OAuth or Meetup Pro API access.
+- It does not collect attendee emails, member details, private comments, or private group data.
+- Meetup can change its frontend markup, so the scraper may need occasional maintenance.
+- Keep request volume low and respectful.
+
+## Files
 
 ```text
-https://www.meetup.com/<group>/events/
+meetup-event-radar/
+├── index.html
+├── styles.css
+├── app.js
+├── data/
+│   └── events.json
+├── scripts/
+│   └── scrape-meetup.js
+├── .github/
+│   └── workflows/
+│       └── update-events.yml
+├── .nojekyll
+├── package.json
+└── README.md
 ```
-
-## Tune categories
-
-Edit `CATEGORY_RULES` in `app.js`.
-
-For example, to make professional events score more strongly, add keywords under:
-
-```js
-{
-  name: "Conference / Professional",
-  keywords: ["conference", "summit", "panel", "talk"]
-}
-```
-
-## Security notes
-
-- No Meetup username/password is used.
-- No OAuth token is used.
-- The proxy only allows `https://www.meetup.com/.../events...` URLs.
-- The proxy caches responses briefly to avoid hammering Meetup.
-- Avoid collecting attendee/member data.

@@ -1,0 +1,21 @@
+{
+  "generatedAt": null,
+  "daysAhead": 90,
+  "groupCount": 11,
+  "groups": [
+    { "url": "https://www.meetup.com/london-devops/", "slug": "london-devops" },
+    { "url": "https://www.meetup.com/devsecops-london-gathering/", "slug": "devsecops-london-gathering" },
+    { "url": "https://www.meetup.com/ansible-london/", "slug": "ansible-london" },
+    { "url": "https://www.meetup.com/apache-kafka-london/", "slug": "apache-kafka-london" },
+    { "url": "https://www.meetup.com/awsuguk/", "slug": "awsuguk" },
+    { "url": "https://www.meetup.com/cloud-native-london/", "slug": "cloud-native-london" },
+    { "url": "https://www.meetup.com/devops-exchange-london/", "slug": "devops-exchange-london" },
+    { "url": "https://www.meetup.com/grafana-and-friends-london/", "slug": "grafana-and-friends-london" },
+    { "url": "https://www.meetup.com/londonlinux/", "slug": "londonlinux" },
+    { "url": "https://www.meetup.com/london-microservices/", "slug": "london-microservices" },
+    { "url": "https://www.meetup.com/platform-engineers-london/", "slug": "platform-engineers-london" }
+  ],
+  "categoryRules": [],
+  "events": [],
+  "errors": []
+}

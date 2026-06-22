@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Meetup Event Radar</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="hero">
+    <div>
+      <p class="eyebrow">Meetup Event Radar</p>
+      <h1>London tech events for the next 90 days</h1>
+      <p class="lede">A static GitHub Pages dashboard powered by a scheduled GitHub Actions scraper.</p>
+    </div>
+    <div class="status-card">
+      <span id="statusDot" class="status-dot"></span>
+      <span id="statusText">Loading events.json…</span>
+      <small id="generatedMeta">Generated time unavailable</small>
+    </div>
+  </header>
+
+  <main>
+    <section class="controls" aria-label="Filters">
+      <label>
+        Search
+        <input id="searchBox" type="search" placeholder="kubernetes, security, social, AWS…">
+      </label>
+
+      <label>
+        Category
+        <select id="categoryFilter">
+          <option value="all">All categories</option>
+        </select>
+      </label>
+
+      <label>
+        Group
+        <select id="groupFilter">
+          <option value="all">All groups</option>
+        </select>
+      </label>
+
+      <label>
+        View
+        <select id="viewFilter">
+          <option value="upcoming">Upcoming only</option>
+          <option value="all">All loaded events</option>
+        </select>
+      </label>
+
+      <button id="exportButton" type="button">Export CSV</button>
+    </section>
+
+    <section id="summaryGrid" class="summary-grid" aria-label="Summary"></section>
+
+    <section class="layout">
+      <aside class="panel">
+        <h2>📡 Watched groups</h2>
+        <ul id="groupList" class="group-list"></ul>
+      </aside>
+
+      <section class="panel events-panel">
+        <div class="section-heading">
+          <div>
+            <h2>📅 Events</h2>
+            <p id="resultMeta">No events loaded yet.</p>
+          </div>
+        </div>
+        <div id="eventList" class="event-list"></div>
+      </section>
+    </section>
+  </main>
+
+  <template id="eventCardTemplate">
+    <article class="event-card">
+      <div class="event-topline">
+        <span class="category-pill"></span>
+        <span class="score-pill"></span>
+      </div>
+      <h3><a class="event-title" target="_blank" rel="noopener noreferrer"></a></h3>
+      <p class="event-description"></p>
+      <dl class="event-meta">
+        <div><dt>When</dt><dd class="event-date"></dd></div>
+        <div><dt>Group</dt><dd class="event-group"></dd></div>
+        <div><dt>Where</dt><dd class="event-location"></dd></div>
+        <div><dt>RSVPs</dt><dd class="event-rsvps"></dd></div>
+      </dl>
+      <div class="matched-tags"></div>
+    </article>
+  </template>
+
+  <script src="app.js" defer></script>
+</body>
+</html>
