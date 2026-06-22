@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-22T13:59:18.250Z",
+  "generatedAt": "2026-06-22T22:31:16.282Z",
   "daysAhead": 90,
-  "groupCount": 11,
+  "groupCount": 22,
   "groups": [
     {
       "url": "https://www.meetup.com/london-devops/",
@@ -46,6 +46,50 @@
     {
       "url": "https://www.meetup.com/platform-engineers-london/",
       "slug": "platform-engineers-london"
+    },
+    {
+      "url": "https://www.meetup.com/london-security-engineering-group/",
+      "slug": "london-security-engineering-group"
+    },
+    {
+      "url": "https://www.meetup.com/vibe-coding-collective/",
+      "slug": "vibe-coding-collective"
+    },
+    {
+      "url": "https://www.meetup.com/javascript-london/",
+      "slug": "javascript-london"
+    },
+    {
+      "url": "https://www.meetup.com/devops-society/",
+      "slug": "devops-society"
+    },
+    {
+      "url": "https://www.meetup.com/hackernewslondon/",
+      "slug": "hackernewslondon"
+    },
+    {
+      "url": "https://www.meetup.com/devopsplayground/",
+      "slug": "devopsplayground"
+    },
+    {
+      "url": "https://www.meetup.com/kubernetes-london/",
+      "slug": "kubernetes-london"
+    },
+    {
+      "url": "https://www.meetup.com/owasp-london/",
+      "slug": "owasp-london"
+    },
+    {
+      "url": "https://www.meetup.com/stripe-london/",
+      "slug": "stripe-london"
+    },
+    {
+      "url": "https://www.meetup.com/aws-london-well-architected-user-group/",
+      "slug": "aws-london-well-architected-user-group"
+    },
+    {
+      "url": "https://www.meetup.com/raspberry-pint-london/",
+      "slug": "raspberry-pint-london"
     }
   ],
   "categoryRules": [
@@ -88,6 +132,72 @@
   ],
   "events": [
     {
+      "id": "314843315",
+      "title": "Stripe London developer meetup - June 2026 (In Person)",
+      "description": "**Join us on June 23rd for the Stripe London developer meetup. This is an in-person event for anyone building with Stripe. An evening focused on Stripe use",
+      "startDate": "2026-06-23T17:00:00.000Z",
+      "location": "Stripe Office, London, 201 Bishopsgate, London, 17, London, 17, gb",
+      "rsvpCount": null,
+      "isOnline": true,
+      "eventUrl": "https://www.meetup.com/stripe-london/events/314843315/",
+      "groupUrl": "https://www.meetup.com/stripe-london/",
+      "groupSlug": "stripe-london",
+      "groupName": "Meetup",
+      "source": "public Meetup page",
+      "scrapedAt": "2026-06-22T22:32:30.800Z",
+      "category": "Other",
+      "categoryEmoji": "📌",
+      "matchedCategories": [],
+      "score": 0
+    },
+    {
+      "id": "315259156",
+      "title": "Vibe Coding: Level Up",
+      "description": "Vibe Coding Collective is a global community helping anyone turn ideas into working software with AI. We host relaxed social coding jams in bars, cafés, an",
+      "startDate": "2026-06-23T18:00:00.000Z",
+      "location": "Brewhouse & Kitchen Highbury, 2A Corsica St, N5 1JJ, London, 17, London, 17, gb",
+      "rsvpCount": null,
+      "isOnline": true,
+      "eventUrl": "https://www.meetup.com/vibe-coding-collective/events/315259156/",
+      "groupUrl": "https://www.meetup.com/vibe-coding-collective/",
+      "groupSlug": "vibe-coding-collective",
+      "groupName": "Meetup",
+      "source": "public Meetup page",
+      "scrapedAt": "2026-06-22T22:32:15.393Z",
+      "category": "Social / Community",
+      "categoryEmoji": "🍻",
+      "matchedCategories": [
+        {
+          "name": "Social / Community",
+          "emoji": "🍻",
+          "hits": [
+            "social",
+            "community"
+          ]
+        }
+      ],
+      "score": 40
+    },
+    {
+      "id": "310944709",
+      "title": "Raspberry Pint : Raspberry Pi and other Digital Making Fun -Arduino, ESP32, etc.",
+      "description": "This is Raspberry Pint, where we share our digital making experiences. Most of our presentations are about building personal or professional projects with",
+      "startDate": "2026-06-23T18:00:00.000Z",
+      "location": "TBC",
+      "rsvpCount": null,
+      "isOnline": true,
+      "eventUrl": "https://www.meetup.com/raspberry-pint-london/events/310944709/",
+      "groupUrl": "https://www.meetup.com/raspberry-pint-london/",
+      "groupSlug": "raspberry-pint-london",
+      "groupName": "Meetup",
+      "source": "public Meetup page",
+      "scrapedAt": "2026-06-22T22:32:37.984Z",
+      "category": "Other",
+      "categoryEmoji": "📌",
+      "matchedCategories": [],
+      "score": 0
+    },
+    {
       "id": "314874838",
       "title": "DSOLG June Event",
       "description": "## Details Welcome to the DevSecOps London Gathering June Event on Wednesday 24 June! We bring you two more great speakers, as well as the usual conversat",
@@ -100,7 +210,7 @@
       "groupSlug": "devsecops-london-gathering",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-06-22T13:59:23.887Z",
+      "scrapedAt": "2026-06-22T22:31:20.407Z",
       "category": "Security / DevSecOps",
       "categoryEmoji": "🛡️",
       "matchedCategories": [
@@ -134,7 +244,7 @@
       "groupSlug": "london-microservices",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-06-22T14:00:10.044Z",
+      "scrapedAt": "2026-06-22T22:32:01.296Z",
       "category": "Other",
       "categoryEmoji": "📌",
       "matchedCategories": [],
@@ -153,7 +263,7 @@
       "groupSlug": "londonlinux",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-06-22T14:00:05.271Z",
+      "scrapedAt": "2026-06-22T22:31:57.196Z",
       "category": "Linux / Open Source",
       "categoryEmoji": "🐧",
       "matchedCategories": [
@@ -187,7 +297,7 @@
       "groupSlug": "devops-exchange-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-06-22T13:59:55.794Z",
+      "scrapedAt": "2026-06-22T22:31:50.519Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -214,7 +324,7 @@
       "groupSlug": "devops-exchange-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-06-22T13:59:57.759Z",
+      "scrapedAt": "2026-06-22T22:31:52.266Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -223,6 +333,33 @@
           "emoji": "☁️",
           "hits": [
             "devops"
+          ]
+        }
+      ],
+      "score": 41
+    },
+    {
+      "id": "314932450",
+      "title": "AWS London Well-Architected User Group June Meetup!",
+      "description": "Hi Architects, Welcome to our Fifth AWS London Well-Architected User Group Meetup!!! 🥳🥳🥳 Dragon Hall Trust, 17 Stukeley Street, London WC2B 5LT The A",
+      "startDate": "2026-06-25T17:30:00.000Z",
+      "location": "Dragon Hall Trust, 17 Stukeley St WC2B 5LT, london, 17, london, 17, gb",
+      "rsvpCount": null,
+      "isOnline": true,
+      "eventUrl": "https://www.meetup.com/aws-london-well-architected-user-group/events/314932450/",
+      "groupUrl": "https://www.meetup.com/aws-london-well-architected-user-group/",
+      "groupSlug": "aws-london-well-architected-user-group",
+      "groupName": "Meetup",
+      "source": "public Meetup page",
+      "scrapedAt": "2026-06-22T22:32:34.237Z",
+      "category": "Cloud / Platform / DevOps",
+      "categoryEmoji": "☁️",
+      "matchedCategories": [
+        {
+          "name": "Cloud / Platform / DevOps",
+          "emoji": "☁️",
+          "hits": [
+            "aws"
           ]
         }
       ],
@@ -241,7 +378,7 @@
       "groupSlug": "cloud-native-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-06-22T13:59:46.330Z",
+      "scrapedAt": "2026-06-22T22:31:41.758Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -277,6 +414,47 @@
       "score": 46
     },
     {
+      "id": "315170903",
+      "title": "London Security Engineering July Event",
+      "description": "Join us at the next monthly London Security Engineering meetup! **🍕 6:00pm: Arrive** \\- Kick off the evening with light refreshments and networking \\(30",
+      "startDate": "2026-07-01T17:00:00.000Z",
+      "location": "MMC Ventures Ltd, 24 High Holborn, London, 17, London, 17, gb",
+      "rsvpCount": null,
+      "isOnline": true,
+      "eventUrl": "https://www.meetup.com/london-security-engineering-group/events/315170903/",
+      "groupUrl": "https://www.meetup.com/london-security-engineering-group/",
+      "groupSlug": "london-security-engineering-group",
+      "groupName": "Meetup",
+      "source": "public Meetup page",
+      "scrapedAt": "2026-06-22T22:32:12.062Z",
+      "category": "Security / DevSecOps",
+      "categoryEmoji": "🛡️",
+      "matchedCategories": [
+        {
+          "name": "Security / DevSecOps",
+          "emoji": "🛡️",
+          "hits": [
+            "security"
+          ]
+        },
+        {
+          "name": "Professional / Conference",
+          "emoji": "💼",
+          "hits": [
+            "networking"
+          ]
+        },
+        {
+          "name": "Social / Community",
+          "emoji": "🍻",
+          "hits": [
+            "networking"
+          ]
+        }
+      ],
+      "score": 50
+    },
+    {
       "id": "315316242",
       "title": "How can a Context Lake cut down up to 80% of your token usage?",
       "description": "Agents in your SDLC are more expensive than they need to be. When agents connect to MCPs, they waste tokens reasoning to find answers, increasing cost. Bu",
@@ -289,7 +467,7 @@
       "groupSlug": "platform-engineers-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-06-22T14:00:13.544Z",
+      "scrapedAt": "2026-06-22T22:32:04.698Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -316,7 +494,7 @@
       "groupSlug": "awsuguk",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-06-22T13:59:37.716Z",
+      "scrapedAt": "2026-06-22T22:31:32.434Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -344,7 +522,7 @@
       "groupSlug": "platform-engineers-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-06-22T14:00:15.253Z",
+      "scrapedAt": "2026-06-22T22:32:06.443Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -386,7 +564,7 @@
       "groupSlug": "devsecops-london-gathering",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-06-22T13:59:25.666Z",
+      "scrapedAt": "2026-06-22T22:31:22.178Z",
       "category": "Security / DevSecOps",
       "categoryEmoji": "🛡️",
       "matchedCategories": [
@@ -427,7 +605,7 @@
       "groupSlug": "platform-engineers-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-06-22T14:00:17.175Z",
+      "scrapedAt": "2026-06-22T22:32:08.180Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -442,6 +620,25 @@
       "score": 36
     },
     {
+      "id": "310944712",
+      "title": "Raspberry Pint : Raspberry Pi and other Digital Making Fun -Arduino, ESP32, etc.",
+      "description": "This is Raspberry Pint, where we share our digital making experiences. Most of our presentations are about building personal or professional projects with",
+      "startDate": "2026-07-28T18:00:00.000Z",
+      "location": "TBC",
+      "rsvpCount": null,
+      "isOnline": true,
+      "eventUrl": "https://www.meetup.com/raspberry-pint-london/events/310944712/",
+      "groupUrl": "https://www.meetup.com/raspberry-pint-london/",
+      "groupSlug": "raspberry-pint-london",
+      "groupName": "Meetup",
+      "source": "public Meetup page",
+      "scrapedAt": "2026-06-22T22:32:39.801Z",
+      "category": "Other",
+      "categoryEmoji": "📌",
+      "matchedCategories": [],
+      "score": 0
+    },
+    {
       "id": "314662523",
       "title": "Cloud Native London, August 2026",
       "description": "Hi folks! Welcome to our August Cloud Native London meetup! Join us to hear from our three great speakers and network with your fellow techies over pizza",
@@ -454,7 +651,7 @@
       "groupSlug": "cloud-native-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-06-22T13:59:48.015Z",
+      "scrapedAt": "2026-06-22T22:31:43.502Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -502,7 +699,7 @@
       "groupSlug": "devsecops-london-gathering",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-06-22T13:59:27.419Z",
+      "scrapedAt": "2026-06-22T22:31:23.946Z",
       "category": "Security / DevSecOps",
       "categoryEmoji": "🛡️",
       "matchedCategories": [
@@ -524,6 +721,25 @@
       "score": 45
     },
     {
+      "id": "310944719",
+      "title": "Raspberry Pint : Raspberry Pi and other Digital Making Fun -Arduino, ESP32, etc.",
+      "description": "This is Raspberry Pint, where we share our digital making experiences. Most of our presentations are about building personal or professional projects with",
+      "startDate": "2026-08-25T18:00:00.000Z",
+      "location": "TBC",
+      "rsvpCount": null,
+      "isOnline": true,
+      "eventUrl": "https://www.meetup.com/raspberry-pint-london/events/310944719/",
+      "groupUrl": "https://www.meetup.com/raspberry-pint-london/",
+      "groupSlug": "raspberry-pint-london",
+      "groupName": "Meetup",
+      "source": "public Meetup page",
+      "scrapedAt": "2026-06-22T22:32:42.379Z",
+      "category": "Other",
+      "categoryEmoji": "📌",
+      "matchedCategories": [],
+      "score": 0
+    },
+    {
       "id": "314662641",
       "title": "Cloud Native London, September 2026",
       "description": "Hi folks! Welcome to our September Cloud Native London meetup! Join us to hear from our three great speakers and network with your fellow techies over piz",
@@ -536,7 +752,7 @@
       "groupSlug": "cloud-native-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-06-22T13:59:49.744Z",
+      "scrapedAt": "2026-06-22T22:31:45.264Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -577,7 +793,7 @@
       "groupSlug": "devsecops-london-gathering",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-06-22T13:59:30.283Z",
+      "scrapedAt": "2026-06-22T22:31:25.712Z",
       "category": "Security / DevSecOps",
       "categoryEmoji": "🛡️",
       "matchedCategories": [
