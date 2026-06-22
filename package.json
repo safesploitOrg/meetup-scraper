@@ -5,8 +5,9 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "build": "node scripts/build-static.js",
     "scrape": "node scripts/scrape-meetup.js",
-    "serve": "python3 -m http.server 8080"
+    "serve": "python3 -m http.server 8080 --directory public"
   },
   "engines": {
     "node": ">=22"

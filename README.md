@@ -33,8 +33,11 @@ Edit the `GROUP_URLS` array in `scripts/scrape-meetup.js` to add or remove group
 
 ```bash
 npm run scrape
+npm run build
 npm run serve
 ```
+
+`npm run serve` hosts the rebuilt `public/` artifact.
 
 Then open:
 
@@ -46,9 +49,9 @@ http://localhost:8080
 
 1. Push this folder to a GitHub repository.
 2. In GitHub, go to **Settings → Pages**.
-3. Set the Pages source to deploy from the branch that contains `index.html`, or use your preferred Pages workflow.
+3. Set the Pages source to **GitHub Actions**.
 4. Go to **Actions → Update Meetup Events → Run workflow** to generate the first `data/events.json`.
-5. The scheduled workflow then refreshes the JSON every 12 hours.
+5. The scheduled workflow then refreshes the JSON and deploys the rebuilt static site every 12 hours.
 
 ## How the scheduled refresh works
 
@@ -56,9 +59,10 @@ http://localhost:8080
 
 ```bash
 npm run scrape
+npm run build
 ```
 
-Then commits `data/events.json` back to the repository if the event data changed.
+It writes `data/events.json`, builds a fresh `public/` artifact containing the static frontend and updated JSON, commits `data/events.json` back to the repository if it changed, and deploys the artifact to GitHub Pages.
 
 ## Configuration
 
@@ -90,11 +94,14 @@ meetup-event-radar/
 ├── data/
 │   └── events.json
 ├── scripts/
+│   ├── build-static.js
 │   └── scrape-meetup.js
 ├── .github/
 │   └── workflows/
 │       └── update-events.yml
+├── .gitignore
 ├── .nojekyll
+├── package-lock.json
 ├── package.json
 └── README.md
 ```
