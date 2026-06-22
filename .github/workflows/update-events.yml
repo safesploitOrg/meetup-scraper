@@ -27,12 +27,12 @@ jobs:
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v5
+        uses: actions/checkout@v4
         with:
           ref: main
 
       - name: Setup Node
-        uses: actions/setup-node@v5
+        uses: actions/setup-node@v4
         with:
           node-version: "22"
 
@@ -41,6 +41,20 @@ jobs:
 
       - name: Scrape Meetup events
         run: npm run scrape
+
+      - name: Verify JSON before deploy
+        run: |
+          echo "Current commit:"
+          git rev-parse HEAD
+
+          echo "Generated JSON:"
+          head -n 40 data/events.json
+
+          echo "Files being deployed:"
+          find . -maxdepth 3 -type f \
+            -not -path "./.git/*" \
+            -not -path "./node_modules/*" \
+            -print
 
       - name: Commit updated events
         run: |
@@ -55,21 +69,6 @@ jobs:
             git push origin main
           fi
 
-      # Rebuild the static site after updating the events.json file
-      - name: Build static site
-        run: |
-          rm -rf public
-          mkdir -p public/data
-
-          cp index.html public/
-          cp styles.css public/
-          cp app.js public/
-          cp .nojekyll public/
-          cp data/events.json public/data/events.json
-
-          echo "Deployed JSON preview:"
-          head -n 40 public/data/events.json
-
       - name: Configure Pages
         uses: actions/configure-pages@v5
 
@@ -80,4 +79,4 @@ jobs:
 
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v5
+        uses: actions/deploy-pages@v4
