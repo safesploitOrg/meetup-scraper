@@ -10,20 +10,7 @@
 
 import fs from "node:fs/promises";
 import path from "node:path";
-
-const GROUP_URLS = [
-  "https://www.meetup.com/london-devops/",
-  "https://www.meetup.com/devsecops-london-gathering/",
-  "https://www.meetup.com/ansible-london/",
-  "https://www.meetup.com/apache-kafka-london/",
-  "https://www.meetup.com/awsuguk/",
-  "https://www.meetup.com/cloud-native-london/",
-  "https://www.meetup.com/devops-exchange-london/",
-  "https://www.meetup.com/grafana-and-friends-london/",
-  "https://www.meetup.com/londonlinux/",
-  "https://www.meetup.com/london-microservices/",
-  "https://www.meetup.com/platform-engineers-london/"
-];
+import { loadGroupUrls } from "./groups-config.js";
 
 const DAYS_AHEAD = Number.parseInt(process.env.DAYS_AHEAD || "90", 10);
 const OUTPUT_PATH = path.join("data", "events.json");
@@ -118,12 +105,13 @@ const REJECT_KEYWORDS = [
 ];
 
 async function main() {
+  const groupUrls = await loadGroupUrls();
   const generatedAt = new Date();
   const allEvents = [];
   const errors = [];
   const seenEventUrls = new Set();
 
-  for (const groupUrl of GROUP_URLS.map(normaliseGroupUrl)) {
+  for (const groupUrl of groupUrls) {
     try {
       console.log(`Scanning ${groupUrl}`);
       const eventUrls = await discoverEventUrls(groupUrl);
@@ -167,8 +155,8 @@ async function main() {
   const payload = {
     generatedAt: generatedAt.toISOString(),
     daysAhead: DAYS_AHEAD,
-    groupCount: GROUP_URLS.length,
-    groups: GROUP_URLS.map((url) => ({ url: normaliseGroupUrl(url), slug: getGroupSlug(url) })),
+    groupCount: groupUrls.length,
+    groups: groupUrls.map((url) => ({ url, slug: getGroupSlug(url) })),
     categoryRules: CATEGORY_RULES.map(({ name, emoji }) => ({ name, emoji })),
     events: dedupedEvents,
     errors

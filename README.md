@@ -13,21 +13,15 @@ This avoids browser CORS issues and means GitHub Pages can host the app without 
 
 ## Watched Meetup groups
 
-The scraper currently watches:
+The scraper reads the watched groups from `groups.yml`:
 
-- <https://www.meetup.com/london-devops/>
-- <https://www.meetup.com/devsecops-london-gathering/>
-- <https://www.meetup.com/ansible-london/>
-- <https://www.meetup.com/apache-kafka-london/>
-- <https://www.meetup.com/awsuguk/>
-- <https://www.meetup.com/cloud-native-london/>
-- <https://www.meetup.com/devops-exchange-london/>
-- <https://www.meetup.com/grafana-and-friends-london/>
-- <https://www.meetup.com/londonlinux/>
-- <https://www.meetup.com/london-microservices/>
-- <https://www.meetup.com/platform-engineers-london/>
+```yaml
+groups:
+  - https://www.meetup.com/london-devops/
+  - https://www.meetup.com/devsecops-london-gathering/
+```
 
-Edit the `GROUP_URLS` array in `scripts/scrape-meetup.js` to add or remove groups.
+Add or remove one public Meetup group URL per line.
 
 ## Local usage
 
@@ -72,6 +66,7 @@ Environment variables supported by the scraper:
 |---|---:|---|
 | `DAYS_AHEAD` | `90` | Only include events within this many days |
 | `MAX_EVENT_PAGES_PER_GROUP` | `30` | Limit event page fetches per group |
+| `GROUPS_PATH` | `groups.yml` | YAML file containing watched Meetup group URLs |
 | `REQUEST_DELAY_MS` | `1500` | Delay between requests |
 | `REQUEST_TIMEOUT_MS` | `25000` | HTTP timeout per request |
 | `USER_AGENT` | built-in | User-Agent header for requests |
@@ -95,10 +90,12 @@ meetup-event-radar/
 │   └── events.json
 ├── scripts/
 │   ├── build-static.js
+│   ├── groups-config.js
 │   └── scrape-meetup.js
 ├── .github/
 │   └── workflows/
 │       └── update-events.yml
+├── groups.yml
 ├── .gitignore
 ├── .nojekyll
 ├── package-lock.json

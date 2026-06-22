@@ -1,0 +1,14 @@
+# Meetup group URLs to scan.
+# Add one public group URL per line.
+groups:
+  - https://www.meetup.com/london-devops/
+  - https://www.meetup.com/devsecops-london-gathering/
+  - https://www.meetup.com/ansible-london/
+  - https://www.meetup.com/apache-kafka-london/
+  - https://www.meetup.com/awsuguk/
+  - https://www.meetup.com/cloud-native-london/
+  - https://www.meetup.com/devops-exchange-london/
+  - https://www.meetup.com/grafana-and-friends-london/
+  - https://www.meetup.com/londonlinux/
+  - https://www.meetup.com/london-microservices/
+  - https://www.meetup.com/platform-engineers-london/
