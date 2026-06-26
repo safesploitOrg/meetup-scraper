@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T12:51:06.791Z",
+  "generatedAt": "2026-06-26T00:49:37.993Z",
   "daysAhead": 90,
   "groupCount": 22,
   "groups": [
@@ -132,33 +132,6 @@
   ],
   "events": [
     {
-      "id": "314932450",
-      "title": "AWS London Well-Architected User Group June Meetup!",
-      "description": "Hi Architects, Welcome to our Fifth AWS London Well-Architected User Group Meetup!!! 🥳🥳🥳 Dragon Hall Trust, 17 Stukeley Street, London WC2B 5LT The A",
-      "startDate": "2026-06-25T17:30:00.000Z",
-      "location": "Dragon Hall Trust, 17 Stukeley St WC2B 5LT, london, 17, london, 17, gb",
-      "rsvpCount": null,
-      "isOnline": true,
-      "eventUrl": "https://www.meetup.com/aws-london-well-architected-user-group/events/314932450/",
-      "groupUrl": "https://www.meetup.com/aws-london-well-architected-user-group/",
-      "groupSlug": "aws-london-well-architected-user-group",
-      "groupName": "Meetup",
-      "source": "public Meetup page",
-      "scrapedAt": "2026-06-25T12:52:21.609Z",
-      "category": "Cloud / Platform / DevOps",
-      "categoryEmoji": "☁️",
-      "matchedCategories": [
-        {
-          "name": "Cloud / Platform / DevOps",
-          "emoji": "☁️",
-          "hits": [
-            "aws"
-          ]
-        }
-      ],
-      "score": 41
-    },
-    {
       "id": "315381096",
       "title": "OWASP London Chapter Meetup [IN-PERSON]",
       "description": "**Please RSVP to attend this event here:** [https://www.eventbrite.co.uk/e/owasp-london-chapter-meetup-in-person-tickets-1992013900199](https://www.eventbr",
@@ -171,7 +144,7 @@
       "groupSlug": "owasp-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-06-25T12:52:13.738Z",
+      "scrapedAt": "2026-06-26T00:50:54.664Z",
       "category": "Security / DevSecOps",
       "categoryEmoji": "🛡️",
       "matchedCategories": [
@@ -198,7 +171,7 @@
       "groupSlug": "cloud-native-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-06-25T12:51:30.524Z",
+      "scrapedAt": "2026-06-26T00:50:07.577Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -246,7 +219,7 @@
       "groupSlug": "london-security-engineering-group",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-06-25T12:51:59.998Z",
+      "scrapedAt": "2026-06-26T00:50:39.693Z",
       "category": "Security / DevSecOps",
       "categoryEmoji": "🛡️",
       "matchedCategories": [
@@ -287,7 +260,7 @@
       "groupSlug": "platform-engineers-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-06-25T12:51:52.834Z",
+      "scrapedAt": "2026-06-26T00:50:30.061Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -314,7 +287,7 @@
       "groupSlug": "devops-exchange-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-06-25T12:51:39.782Z",
+      "scrapedAt": "2026-06-26T00:50:16.825Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -341,7 +314,7 @@
       "groupSlug": "devops-exchange-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-06-25T12:51:41.314Z",
+      "scrapedAt": "2026-06-26T00:50:18.355Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -368,7 +341,7 @@
       "groupSlug": "awsuguk",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-06-25T12:51:21.789Z",
+      "scrapedAt": "2026-06-26T00:49:57.341Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -396,7 +369,7 @@
       "groupSlug": "platform-engineers-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-06-25T12:51:54.564Z",
+      "scrapedAt": "2026-06-26T00:50:32.026Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -426,6 +399,41 @@
       "score": 44
     },
     {
+      "id": "315413616",
+      "title": "The cost benefits of modernizing your VM fleet (that no one talks about)",
+      "description": "VM modernization involves more financial complexity than what shows up on a standard cloud bill. Most engineers evaluate VMs on on-demand hourly rate, miss",
+      "startDate": "2026-07-21T17:00:00.000Z",
+      "location": "TBC",
+      "rsvpCount": null,
+      "isOnline": true,
+      "eventUrl": "https://www.meetup.com/platform-engineers-london/events/315413616/",
+      "groupUrl": "https://www.meetup.com/platform-engineers-london/",
+      "groupSlug": "platform-engineers-london",
+      "groupName": "Meetup",
+      "source": "public Meetup page",
+      "scrapedAt": "2026-06-26T00:50:33.855Z",
+      "category": "Cloud / Platform / DevOps",
+      "categoryEmoji": "☁️",
+      "matchedCategories": [
+        {
+          "name": "Cloud / Platform / DevOps",
+          "emoji": "☁️",
+          "hits": [
+            "platform",
+            "cloud"
+          ]
+        },
+        {
+          "name": "Professional / Conference",
+          "emoji": "💼",
+          "hits": [
+            "talk"
+          ]
+        }
+      ],
+      "score": 44
+    },
+    {
       "id": "315328305",
       "title": "DSOLG July Event",
       "description": "## Details Welcome to the DevSecOps London Gathering July Event on Wednesday 22 July! We bring you speakers, as well as the usual conversations, pizza and",
@@ -438,7 +446,7 @@
       "groupSlug": "devsecops-london-gathering",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-06-25T12:51:11.114Z",
+      "scrapedAt": "2026-06-26T00:49:42.742Z",
       "category": "Security / DevSecOps",
       "categoryEmoji": "🛡️",
       "matchedCategories": [
@@ -468,8 +476,8 @@
     },
     {
       "id": "315410525",
-      "title": "London Linux Drinks: July, \"We got a hot one for you...?\" Edition",
-      "description": "Last month there were Met Office Red warnings for excessive heat. Will July be the same? Come find some shade in an air-conditioned pub, meet like-minded p",
+      "title": "London Linux Drinks: July, \"We got a hot π for you...?\" Edition",
+      "description": "July we meet on 22/7 - π for most practical purposes. Last month there were Met Office Red warnings for excessive heat. Will this month be the same? Come f",
       "startDate": "2026-07-22T18:00:00.000Z",
       "location": "Hand & Racquet, Hand & Racquet, 25-27 Wimbledon Hill, Wimbledon, London, SW19 7NE, 17, London, SW19 7NE, 17, gb",
       "rsvpCount": null,
@@ -479,9 +487,9 @@
       "groupSlug": "londonlinux",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-06-25T12:51:46.902Z",
-      "category": "Social / Community",
-      "categoryEmoji": "🍻",
+      "scrapedAt": "2026-06-26T00:50:24.213Z",
+      "category": "Linux / Open Source",
+      "categoryEmoji": "🐧",
       "matchedCategories": [
         {
           "name": "Linux / Open Source",
@@ -494,12 +502,11 @@
           "name": "Social / Community",
           "emoji": "🍻",
           "hits": [
-            "drinks",
-            "pub"
+            "drinks"
           ]
         }
       ],
-      "score": 40
+      "score": 38
     },
     {
       "id": "315183556",
@@ -514,7 +521,7 @@
       "groupSlug": "platform-engineers-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-06-25T12:51:56.276Z",
+      "scrapedAt": "2026-06-26T00:50:35.903Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -541,7 +548,7 @@
       "groupSlug": "raspberry-pint-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-06-25T12:52:27.029Z",
+      "scrapedAt": "2026-06-26T00:51:09.080Z",
       "category": "Other",
       "categoryEmoji": "📌",
       "matchedCategories": [],
@@ -560,7 +567,7 @@
       "groupSlug": "aws-london-well-architected-user-group",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-06-25T12:52:23.317Z",
+      "scrapedAt": "2026-06-26T00:51:02.155Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -587,7 +594,7 @@
       "groupSlug": "cloud-native-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-06-25T12:51:32.244Z",
+      "scrapedAt": "2026-06-26T00:50:09.367Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -635,7 +642,7 @@
       "groupSlug": "devsecops-london-gathering",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-06-25T12:51:13.056Z",
+      "scrapedAt": "2026-06-26T00:49:47.546Z",
       "category": "Security / DevSecOps",
       "categoryEmoji": "🛡️",
       "matchedCategories": [
@@ -669,7 +676,7 @@
       "groupSlug": "raspberry-pint-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-06-25T12:52:28.894Z",
+      "scrapedAt": "2026-06-26T00:51:11.329Z",
       "category": "Other",
       "categoryEmoji": "📌",
       "matchedCategories": [],
@@ -688,7 +695,7 @@
       "groupSlug": "cloud-native-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-06-25T12:51:34.083Z",
+      "scrapedAt": "2026-06-26T00:50:11.144Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -729,7 +736,7 @@
       "groupSlug": "stripe-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-06-25T12:52:17.262Z",
+      "scrapedAt": "2026-06-26T00:50:58.379Z",
       "category": "Other",
       "categoryEmoji": "📌",
       "matchedCategories": [],
@@ -748,7 +755,7 @@
       "groupSlug": "devsecops-london-gathering",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-06-25T12:51:14.775Z",
+      "scrapedAt": "2026-06-26T00:49:49.470Z",
       "category": "Security / DevSecOps",
       "categoryEmoji": "🛡️",
       "matchedCategories": [
@@ -782,7 +789,7 @@
       "groupSlug": "raspberry-pint-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-06-25T12:52:30.605Z",
+      "scrapedAt": "2026-06-26T00:51:13.998Z",
       "category": "Other",
       "categoryEmoji": "📌",
       "matchedCategories": [],
@@ -801,7 +808,7 @@
       "groupSlug": "awsuguk",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-06-25T12:51:23.546Z",
+      "scrapedAt": "2026-06-26T00:49:59.855Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
