@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T02:59:31.004Z",
+  "generatedAt": "2026-09-08T15:57:18.353Z",
   "daysAhead": 90,
   "groupCount": 22,
   "groups": [
@@ -144,7 +144,7 @@
       "groupSlug": "stripe-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-09-08T03:06:37.384Z",
+      "scrapedAt": "2026-09-08T16:04:06.641Z",
       "category": "Other",
       "categoryEmoji": "📌",
       "matchedCategories": [],
@@ -163,7 +163,7 @@
       "groupSlug": "devsecops-london-gathering",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-09-08T02:59:57.705Z",
+      "scrapedAt": "2026-09-08T15:57:42.292Z",
       "category": "Security / DevSecOps",
       "categoryEmoji": "🛡️",
       "matchedCategories": [
@@ -197,7 +197,7 @@
       "groupSlug": "grafana-and-friends-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-09-08T03:02:29.720Z",
+      "scrapedAt": "2026-09-08T16:00:05.363Z",
       "category": "Observability / SRE",
       "categoryEmoji": "📈",
       "matchedCategories": [
@@ -224,7 +224,7 @@
       "groupSlug": "platform-engineers-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-09-08T03:03:39.644Z",
+      "scrapedAt": "2026-09-08T16:01:29.643Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -252,7 +252,7 @@
       "groupSlug": "devops-society",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-09-08T03:04:54.863Z",
+      "scrapedAt": "2026-09-08T16:02:28.434Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -274,6 +274,33 @@
       "score": 36
     },
     {
+      "id": "315790750",
+      "title": "AWS London Well-Architected User Group September Meetup!",
+      "description": "Hi Architects, Welcome to our the 7th AWS London Well-Architected User Group Meetup!!! 🥳🥳🥳 Dragon Hall Trust, 17 Stukeley Street, London WC2B 5LT The",
+      "startDate": "2026-09-17T17:30:00.000Z",
+      "location": "Dragon Hall Trust, 17 Stukeley St WC2B 5LT, london, 17, london, 17, gb",
+      "rsvpCount": null,
+      "isOnline": true,
+      "eventUrl": "https://www.meetup.com/aws-london-well-architected-user-group/events/315790750/",
+      "groupUrl": "https://www.meetup.com/aws-london-well-architected-user-group/",
+      "groupSlug": "aws-london-well-architected-user-group",
+      "groupName": "Meetup",
+      "source": "public Meetup page",
+      "scrapedAt": "2026-09-08T16:04:28.727Z",
+      "category": "Cloud / Platform / DevOps",
+      "categoryEmoji": "☁️",
+      "matchedCategories": [
+        {
+          "name": "Cloud / Platform / DevOps",
+          "emoji": "☁️",
+          "hits": [
+            "aws"
+          ]
+        }
+      ],
+      "score": 41
+    },
+    {
       "id": "316368341",
       "title": "How to build an agent-ready IDP with open source tools",
       "description": "A portal is just a front door. The real complexity of an Internal Developer Platform (IDP) sits in the backend layer beneath it. As autonomous AI agents be",
@@ -286,7 +313,7 @@
       "groupSlug": "platform-engineers-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-09-08T03:03:41.488Z",
+      "scrapedAt": "2026-09-08T16:01:31.338Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -320,7 +347,7 @@
       "groupSlug": "raspberry-pint-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-09-08T03:07:15.472Z",
+      "scrapedAt": "2026-09-08T16:04:46.151Z",
       "category": "Other",
       "categoryEmoji": "📌",
       "matchedCategories": [],
@@ -339,7 +366,7 @@
       "groupSlug": "awsuguk",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-09-08T03:01:06.726Z",
+      "scrapedAt": "2026-09-08T15:58:46.092Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -366,7 +393,7 @@
       "groupSlug": "platform-engineers-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-09-08T03:03:43.416Z",
+      "scrapedAt": "2026-09-08T16:01:33.061Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -393,7 +420,7 @@
       "groupSlug": "devops-society",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-09-08T03:04:56.878Z",
+      "scrapedAt": "2026-09-08T16:02:30.141Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -423,33 +450,6 @@
       "score": 49
     },
     {
-      "id": "315790750",
-      "title": "AWS London Well-Architected User Group September Meetup!",
-      "description": "Hi Architects, Welcome to our the 7th AWS London Well-Architected User Group Meetup!!! 🥳🥳🥳 Dragon Hall Trust, 17 Stukeley Street, London WC2B 5LT The",
-      "startDate": "2026-09-24T17:30:00.000Z",
-      "location": "Dragon Hall Trust, 17 Stukeley St WC2B 5LT, london, 17, london, 17, gb",
-      "rsvpCount": null,
-      "isOnline": true,
-      "eventUrl": "https://www.meetup.com/aws-london-well-architected-user-group/events/315790750/",
-      "groupUrl": "https://www.meetup.com/aws-london-well-architected-user-group/",
-      "groupSlug": "aws-london-well-architected-user-group",
-      "groupName": "Meetup",
-      "source": "public Meetup page",
-      "scrapedAt": "2026-09-08T03:07:00.229Z",
-      "category": "Cloud / Platform / DevOps",
-      "categoryEmoji": "☁️",
-      "matchedCategories": [
-        {
-          "name": "Cloud / Platform / DevOps",
-          "emoji": "☁️",
-          "hits": [
-            "aws"
-          ]
-        }
-      ],
-      "score": 41
-    },
-    {
       "id": "316083128",
       "title": "Everything you need to know about managing AI spend in 2026",
       "description": "ProsperOps surveyed 100+ platform engineers on managing AI cloud costs. Learn insights from our survey results. Together with our partner, Pay-i, we show y",
@@ -462,7 +462,7 @@
       "groupSlug": "platform-engineers-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-09-08T03:03:45.304Z",
+      "scrapedAt": "2026-09-08T16:01:34.877Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -490,7 +490,7 @@
       "groupSlug": "platform-engineers-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-09-08T03:03:47.048Z",
+      "scrapedAt": "2026-09-08T16:01:36.639Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -518,7 +518,7 @@
       "groupSlug": "cloud-native-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-09-08T03:01:35.740Z",
+      "scrapedAt": "2026-09-08T15:59:13.238Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -566,7 +566,7 @@
       "groupSlug": "raspberry-pint-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-09-08T03:07:17.416Z",
+      "scrapedAt": "2026-09-08T16:04:47.893Z",
       "category": "Other",
       "categoryEmoji": "📌",
       "matchedCategories": [],
@@ -585,7 +585,7 @@
       "groupSlug": "devsecops-london-gathering",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-09-08T02:59:59.518Z",
+      "scrapedAt": "2026-09-08T15:57:43.991Z",
       "category": "Security / DevSecOps",
       "categoryEmoji": "🛡️",
       "matchedCategories": [
@@ -619,7 +619,7 @@
       "groupSlug": "cloud-native-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-09-08T03:01:37.546Z",
+      "scrapedAt": "2026-09-08T15:59:15.007Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -660,7 +660,7 @@
       "groupSlug": "awsuguk",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-09-08T03:01:08.538Z",
+      "scrapedAt": "2026-09-08T15:58:47.937Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -688,7 +688,7 @@
       "groupSlug": "raspberry-pint-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-09-08T03:07:19.179Z",
+      "scrapedAt": "2026-09-08T16:04:49.618Z",
       "category": "Other",
       "categoryEmoji": "📌",
       "matchedCategories": [],
@@ -707,7 +707,7 @@
       "groupSlug": "cloud-native-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-09-08T03:01:41.191Z",
+      "scrapedAt": "2026-09-08T15:59:16.793Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
