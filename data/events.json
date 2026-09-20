@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T15:20:12.343Z",
+  "generatedAt": "2026-09-20T03:20:07.263Z",
   "daysAhead": 90,
   "groupCount": 22,
   "groups": [
@@ -144,7 +144,7 @@
       "groupSlug": "platform-engineers-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-09-19T15:24:10.167Z",
+      "scrapedAt": "2026-09-20T03:24:15.526Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -178,11 +178,38 @@
       "groupSlug": "raspberry-pint-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-09-19T15:27:40.793Z",
+      "scrapedAt": "2026-09-20T03:28:08.036Z",
       "category": "Other",
       "categoryEmoji": "📌",
       "matchedCategories": [],
       "score": 0
+    },
+    {
+      "id": "316631919",
+      "title": "AI Engineering in Practice: Real Challenges to Production Solutions - Virtual",
+      "description": "**1-Click to register =>** [KSUG.AI/online-23sep26](https://ksug.ai/online-23sep26) **<=** **Latest promotions** discovered by our community! * **70%** O",
+      "startDate": "2026-09-23T08:00:00.000Z",
+      "location": "TBC",
+      "rsvpCount": null,
+      "isOnline": true,
+      "eventUrl": "https://www.meetup.com/ksug-uk2/events/316631919/",
+      "groupUrl": "https://www.meetup.com/london-microservices/",
+      "groupSlug": "london-microservices",
+      "groupName": "Meetup",
+      "source": "public Meetup page",
+      "scrapedAt": "2026-09-20T03:23:49.692Z",
+      "category": "Social / Community",
+      "categoryEmoji": "🍻",
+      "matchedCategories": [
+        {
+          "name": "Social / Community",
+          "emoji": "🍻",
+          "hits": [
+            "community"
+          ]
+        }
+      ],
+      "score": 22
     },
     {
       "id": "311927080",
@@ -197,7 +224,7 @@
       "groupSlug": "awsuguk",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-09-19T15:21:47.629Z",
+      "scrapedAt": "2026-09-20T03:21:38.481Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -224,7 +251,7 @@
       "groupSlug": "platform-engineers-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-09-19T15:24:11.870Z",
+      "scrapedAt": "2026-09-20T03:24:17.371Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -251,7 +278,7 @@
       "groupSlug": "devops-society",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-09-19T15:25:23.262Z",
+      "scrapedAt": "2026-09-20T03:25:28.903Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -293,7 +320,7 @@
       "groupSlug": "owasp-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-09-19T15:26:39.566Z",
+      "scrapedAt": "2026-09-20T03:26:48.174Z",
       "category": "Security / DevSecOps",
       "categoryEmoji": "🛡️",
       "matchedCategories": [
@@ -320,7 +347,7 @@
       "groupSlug": "platform-engineers-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-09-19T15:24:14.495Z",
+      "scrapedAt": "2026-09-20T03:24:19.163Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -348,7 +375,7 @@
       "groupSlug": "platform-engineers-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-09-19T15:24:16.264Z",
+      "scrapedAt": "2026-09-20T03:24:20.867Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -376,7 +403,7 @@
       "groupSlug": "cloud-native-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-09-19T15:22:16.345Z",
+      "scrapedAt": "2026-09-20T03:22:28.927Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -424,7 +451,7 @@
       "groupSlug": "platform-engineers-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-09-19T15:24:18.029Z",
+      "scrapedAt": "2026-09-20T03:24:22.616Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -452,7 +479,7 @@
       "groupSlug": "raspberry-pint-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-09-19T15:27:42.493Z",
+      "scrapedAt": "2026-09-20T03:28:09.725Z",
       "category": "Other",
       "categoryEmoji": "📌",
       "matchedCategories": [],
@@ -471,7 +498,7 @@
       "groupSlug": "devsecops-london-gathering",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-09-19T15:20:40.152Z",
+      "scrapedAt": "2026-09-20T03:20:33.198Z",
       "category": "Security / DevSecOps",
       "categoryEmoji": "🛡️",
       "matchedCategories": [
@@ -505,7 +532,7 @@
       "groupSlug": "aws-london-well-architected-user-group",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-09-19T15:27:22.165Z",
+      "scrapedAt": "2026-09-20T03:27:32.182Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -532,7 +559,7 @@
       "groupSlug": "cloud-native-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-09-19T15:22:18.032Z",
+      "scrapedAt": "2026-09-20T03:22:30.635Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -573,7 +600,7 @@
       "groupSlug": "devsecops-london-gathering",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-09-19T15:20:41.915Z",
+      "scrapedAt": "2026-09-20T03:20:34.902Z",
       "category": "Security / DevSecOps",
       "categoryEmoji": "🛡️",
       "matchedCategories": [
@@ -607,7 +634,7 @@
       "groupSlug": "awsuguk",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-09-19T15:21:49.422Z",
+      "scrapedAt": "2026-09-20T03:21:40.307Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -635,7 +662,7 @@
       "groupSlug": "raspberry-pint-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-09-19T15:27:44.368Z",
+      "scrapedAt": "2026-09-20T03:28:11.611Z",
       "category": "Other",
       "categoryEmoji": "📌",
       "matchedCategories": [],
@@ -654,7 +681,7 @@
       "groupSlug": "cloud-native-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-09-19T15:22:19.799Z",
+      "scrapedAt": "2026-09-20T03:22:32.427Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -695,7 +722,7 @@
       "groupSlug": "awsuguk",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-09-19T15:21:51.181Z",
+      "scrapedAt": "2026-09-20T03:21:42.562Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
