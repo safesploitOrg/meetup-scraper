@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T16:22:05.329Z",
+  "generatedAt": "2026-09-28T03:34:05.591Z",
   "daysAhead": 90,
   "groupCount": 22,
   "groups": [
@@ -144,7 +144,7 @@
       "groupSlug": "owasp-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-09-27T16:28:45.591Z",
+      "scrapedAt": "2026-09-28T03:40:18.309Z",
       "category": "Security / DevSecOps",
       "categoryEmoji": "🛡️",
       "matchedCategories": [
@@ -171,7 +171,7 @@
       "groupSlug": "london-devops",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-09-27T16:22:09.353Z",
+      "scrapedAt": "2026-09-28T03:34:09.595Z",
       "category": "Security / DevSecOps",
       "categoryEmoji": "🛡️",
       "matchedCategories": [
@@ -212,7 +212,7 @@
       "groupSlug": "platform-engineers-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-09-27T16:26:35.310Z",
+      "scrapedAt": "2026-09-28T03:37:56.140Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -240,7 +240,7 @@
       "groupSlug": "platform-engineers-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-09-27T16:26:37.093Z",
+      "scrapedAt": "2026-09-28T03:37:57.894Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -268,7 +268,7 @@
       "groupSlug": "cloud-native-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-09-27T16:24:06.967Z",
+      "scrapedAt": "2026-09-28T03:36:00.638Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -316,7 +316,7 @@
       "groupSlug": "owasp-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-09-27T16:28:47.345Z",
+      "scrapedAt": "2026-09-28T03:40:20.055Z",
       "category": "Security / DevSecOps",
       "categoryEmoji": "🛡️",
       "matchedCategories": [
@@ -343,7 +343,7 @@
       "groupSlug": "platform-engineers-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-09-27T16:26:38.795Z",
+      "scrapedAt": "2026-09-28T03:37:59.617Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -371,7 +371,7 @@
       "groupSlug": "platform-engineers-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-09-27T16:26:40.695Z",
+      "scrapedAt": "2026-09-28T03:38:01.578Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -399,7 +399,7 @@
       "groupSlug": "raspberry-pint-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-09-27T16:29:50.955Z",
+      "scrapedAt": "2026-09-28T03:41:18.373Z",
       "category": "Other",
       "categoryEmoji": "📌",
       "matchedCategories": [],
@@ -418,7 +418,7 @@
       "groupSlug": "devsecops-london-gathering",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-09-27T16:22:34.718Z",
+      "scrapedAt": "2026-09-28T03:34:33.971Z",
       "category": "Security / DevSecOps",
       "categoryEmoji": "🛡️",
       "matchedCategories": [
@@ -452,7 +452,7 @@
       "groupSlug": "aws-london-well-architected-user-group",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-09-27T16:29:34.511Z",
+      "scrapedAt": "2026-09-28T03:41:02.363Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -479,7 +479,7 @@
       "groupSlug": "cloud-native-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-09-27T16:24:08.732Z",
+      "scrapedAt": "2026-09-28T03:36:02.360Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -520,7 +520,7 @@
       "groupSlug": "devsecops-london-gathering",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-09-27T16:22:36.470Z",
+      "scrapedAt": "2026-09-28T03:34:35.680Z",
       "category": "Security / DevSecOps",
       "categoryEmoji": "🛡️",
       "matchedCategories": [
@@ -554,7 +554,7 @@
       "groupSlug": "awsuguk",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-09-27T16:23:42.411Z",
+      "scrapedAt": "2026-09-28T03:35:37.251Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -582,7 +582,7 @@
       "groupSlug": "raspberry-pint-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-09-27T16:29:52.710Z",
+      "scrapedAt": "2026-09-28T03:41:20.112Z",
       "category": "Other",
       "categoryEmoji": "📌",
       "matchedCategories": [],
@@ -601,7 +601,7 @@
       "groupSlug": "cloud-native-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-09-27T16:24:10.545Z",
+      "scrapedAt": "2026-09-28T03:36:04.084Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -642,7 +642,7 @@
       "groupSlug": "awsuguk",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-09-27T16:23:44.298Z",
+      "scrapedAt": "2026-09-28T03:35:39.037Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
