@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T04:04:37.827Z",
+  "generatedAt": "2026-10-01T17:59:21.674Z",
   "daysAhead": 90,
   "groupCount": 22,
   "groups": [
@@ -144,7 +144,7 @@
       "groupSlug": "platform-engineers-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-10-01T04:08:45.073Z",
+      "scrapedAt": "2026-10-01T18:03:32.495Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -172,7 +172,7 @@
       "groupSlug": "platform-engineers-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-10-01T04:08:46.757Z",
+      "scrapedAt": "2026-10-01T18:03:23.639Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -200,7 +200,7 @@
       "groupSlug": "cloud-native-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-10-01T04:06:32.633Z",
+      "scrapedAt": "2026-10-01T18:01:25.631Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -248,7 +248,7 @@
       "groupSlug": "owasp-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-10-01T04:10:55.194Z",
+      "scrapedAt": "2026-10-01T18:05:51.700Z",
       "category": "Security / DevSecOps",
       "categoryEmoji": "🛡️",
       "matchedCategories": [
@@ -275,7 +275,7 @@
       "groupSlug": "platform-engineers-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-10-01T04:08:48.529Z",
+      "scrapedAt": "2026-10-01T18:03:25.381Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -303,7 +303,7 @@
       "groupSlug": "platform-engineers-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-10-01T04:08:50.256Z",
+      "scrapedAt": "2026-10-01T18:03:27.140Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -331,7 +331,7 @@
       "groupSlug": "raspberry-pint-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-10-01T04:11:56.221Z",
+      "scrapedAt": "2026-10-01T18:06:51.816Z",
       "category": "Other",
       "categoryEmoji": "📌",
       "matchedCategories": [],
@@ -350,7 +350,7 @@
       "groupSlug": "devsecops-london-gathering",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-10-01T04:05:04.526Z",
+      "scrapedAt": "2026-10-01T17:59:47.634Z",
       "category": "Security / DevSecOps",
       "categoryEmoji": "🛡️",
       "matchedCategories": [
@@ -384,7 +384,7 @@
       "groupSlug": "aws-london-well-architected-user-group",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-10-01T04:11:40.290Z",
+      "scrapedAt": "2026-10-01T18:06:35.016Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -399,33 +399,6 @@
       "score": 41
     },
     {
-      "id": "316765523",
-      "title": "3 platform requirements for agentic engineering",
-      "description": "Agentic engineering only works if the platform underneath it can support autonomous action safely. Justin Billig and Dan Rye, co-founders of Tensure, break",
-      "startDate": "2026-11-02T18:00:00.000Z",
-      "location": "TBC",
-      "rsvpCount": null,
-      "isOnline": true,
-      "eventUrl": "https://www.meetup.com/platform-engineers-london/events/316765523/",
-      "groupUrl": "https://www.meetup.com/platform-engineers-london/",
-      "groupSlug": "platform-engineers-london",
-      "groupName": "Meetup",
-      "source": "public Meetup page",
-      "scrapedAt": "2026-10-01T04:08:52.401Z",
-      "category": "Cloud / Platform / DevOps",
-      "categoryEmoji": "☁️",
-      "matchedCategories": [
-        {
-          "name": "Cloud / Platform / DevOps",
-          "emoji": "☁️",
-          "hits": [
-            "platform"
-          ]
-        }
-      ],
-      "score": 36
-    },
-    {
       "id": "315992081",
       "title": "Cloud Native London, November 2026",
       "description": "Hi folks! Welcome to our November Cloud Native London meetup! Join us to hear from our three great speakers and network with your fellow techies over pizz",
@@ -438,7 +411,7 @@
       "groupSlug": "cloud-native-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-10-01T04:06:34.341Z",
+      "scrapedAt": "2026-10-01T18:01:27.626Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -467,6 +440,33 @@
       "score": 41
     },
     {
+      "id": "316765523",
+      "title": "3 platform requirements for agentic engineering",
+      "description": "Agentic engineering only works if the platform underneath it can support autonomous action safely. Justin Billig and Dan Rye, co-founders of Tensure, break",
+      "startDate": "2026-11-04T18:00:00.000Z",
+      "location": "TBC",
+      "rsvpCount": null,
+      "isOnline": true,
+      "eventUrl": "https://www.meetup.com/platform-engineers-london/events/316765523/",
+      "groupUrl": "https://www.meetup.com/platform-engineers-london/",
+      "groupSlug": "platform-engineers-london",
+      "groupName": "Meetup",
+      "source": "public Meetup page",
+      "scrapedAt": "2026-10-01T18:03:28.987Z",
+      "category": "Cloud / Platform / DevOps",
+      "categoryEmoji": "☁️",
+      "matchedCategories": [
+        {
+          "name": "Cloud / Platform / DevOps",
+          "emoji": "☁️",
+          "hits": [
+            "platform"
+          ]
+        }
+      ],
+      "score": 36
+    },
+    {
       "id": "316386425",
       "title": "DSOLG November Event",
       "description": "## Details Welcome to the DevSecOps London Gathering November Event on Wednesday 18 November! We bring you two more great speakers, as well as the usual c",
@@ -479,7 +479,7 @@
       "groupSlug": "devsecops-london-gathering",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-10-01T04:05:06.232Z",
+      "scrapedAt": "2026-10-01T17:59:49.506Z",
       "category": "Security / DevSecOps",
       "categoryEmoji": "🛡️",
       "matchedCategories": [
@@ -513,7 +513,7 @@
       "groupSlug": "awsuguk",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-10-01T04:06:07.743Z",
+      "scrapedAt": "2026-10-01T18:01:00.000Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -541,7 +541,7 @@
       "groupSlug": "platform-engineers-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-10-01T04:08:54.103Z",
+      "scrapedAt": "2026-10-01T18:03:30.742Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -575,7 +575,7 @@
       "groupSlug": "raspberry-pint-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-10-01T04:11:57.934Z",
+      "scrapedAt": "2026-10-01T18:06:53.850Z",
       "category": "Other",
       "categoryEmoji": "📌",
       "matchedCategories": [],
@@ -594,7 +594,7 @@
       "groupSlug": "cloud-native-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-10-01T04:06:36.091Z",
+      "scrapedAt": "2026-10-01T18:01:29.188Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -635,7 +635,7 @@
       "groupSlug": "awsuguk",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-10-01T04:06:09.478Z",
+      "scrapedAt": "2026-10-01T18:01:01.871Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
