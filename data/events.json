@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T04:18:53.521Z",
+  "generatedAt": "2026-10-29T17:59:43.149Z",
   "daysAhead": 90,
   "groupCount": 22,
   "groups": [
@@ -144,7 +144,7 @@
       "groupSlug": "platform-engineers-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-10-29T04:22:50.368Z",
+      "scrapedAt": "2026-10-29T18:03:59.396Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -180,7 +180,7 @@
       "groupSlug": "aws-london-well-architected-user-group",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-10-29T04:26:10.064Z",
+      "scrapedAt": "2026-10-29T18:07:03.543Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -207,7 +207,7 @@
       "groupSlug": "cloud-native-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-10-29T04:20:48.885Z",
+      "scrapedAt": "2026-10-29T18:01:40.585Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -248,7 +248,7 @@
       "groupSlug": "platform-engineers-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-10-29T04:22:52.102Z",
+      "scrapedAt": "2026-10-29T18:04:01.162Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -257,6 +257,40 @@
           "emoji": "☁️",
           "hits": [
             "platform"
+          ]
+        }
+      ],
+      "score": 36
+    },
+    {
+      "id": "317191686",
+      "title": "The future of AI-native is open source",
+      "description": "Join Vultr and Weave Intelligence for a session on why NVIDIA and AMD are opening the software above their silicon, and what that hands platform teams. Lea",
+      "startDate": "2026-11-05T18:00:00.000Z",
+      "location": "TBC",
+      "rsvpCount": null,
+      "isOnline": true,
+      "eventUrl": "https://www.meetup.com/platform-engineers-london/events/317191686/",
+      "groupUrl": "https://www.meetup.com/platform-engineers-london/",
+      "groupSlug": "platform-engineers-london",
+      "groupName": "Meetup",
+      "source": "public Meetup page",
+      "scrapedAt": "2026-10-29T18:04:03.036Z",
+      "category": "Cloud / Platform / DevOps",
+      "categoryEmoji": "☁️",
+      "matchedCategories": [
+        {
+          "name": "Cloud / Platform / DevOps",
+          "emoji": "☁️",
+          "hits": [
+            "platform"
+          ]
+        },
+        {
+          "name": "Linux / Open Source",
+          "emoji": "🐧",
+          "hits": [
+            "open source"
           ]
         }
       ],
@@ -275,7 +309,7 @@
       "groupSlug": "platform-engineers-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-10-29T04:22:53.965Z",
+      "scrapedAt": "2026-10-29T18:04:04.817Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -303,7 +337,7 @@
       "groupSlug": "devops-society",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-10-29T04:24:03.877Z",
+      "scrapedAt": "2026-10-29T18:04:56.097Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -338,7 +372,7 @@
       "groupSlug": "devsecops-london-gathering",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-10-29T04:19:19.033Z",
+      "scrapedAt": "2026-10-29T18:00:10.155Z",
       "category": "Security / DevSecOps",
       "categoryEmoji": "🛡️",
       "matchedCategories": [
@@ -372,7 +406,7 @@
       "groupSlug": "awsuguk",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-10-29T04:20:25.567Z",
+      "scrapedAt": "2026-10-29T18:01:15.927Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -400,7 +434,7 @@
       "groupSlug": "platform-engineers-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-10-29T04:22:56.351Z",
+      "scrapedAt": "2026-10-29T18:04:06.608Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -434,7 +468,7 @@
       "groupSlug": "owasp-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-10-29T04:25:25.775Z",
+      "scrapedAt": "2026-10-29T18:06:19.505Z",
       "category": "Security / DevSecOps",
       "categoryEmoji": "🛡️",
       "matchedCategories": [
@@ -449,6 +483,33 @@
       "score": 45
     },
     {
+      "id": "317192029",
+      "title": "Accelerating deployment for the AI dev lifecycle",
+      "description": "AI coding assistants have transformed the software development lifecycle, yet the productivity gains are not being realised. Technical debt isn't being ret",
+      "startDate": "2026-11-24T18:00:00.000Z",
+      "location": "TBC",
+      "rsvpCount": null,
+      "isOnline": true,
+      "eventUrl": "https://www.meetup.com/platform-engineers-london/events/317192029/",
+      "groupUrl": "https://www.meetup.com/platform-engineers-london/",
+      "groupSlug": "platform-engineers-london",
+      "groupName": "Meetup",
+      "source": "public Meetup page",
+      "scrapedAt": "2026-10-29T18:04:08.409Z",
+      "category": "Cloud / Platform / DevOps",
+      "categoryEmoji": "☁️",
+      "matchedCategories": [
+        {
+          "name": "Cloud / Platform / DevOps",
+          "emoji": "☁️",
+          "hits": [
+            "platform"
+          ]
+        }
+      ],
+      "score": 44
+    },
+    {
       "id": "314461935",
       "title": "Raspberry Pint : Raspberry Pi and other Digital Making Fun -Arduino, ESP32, etc.",
       "description": "Join us for presentations and discussions about making things with Raspberry Pis and Micro-controllers. This is a Hybrid Meeting. We will be holding at 'Th",
@@ -461,7 +522,7 @@
       "groupSlug": "raspberry-pint-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-10-29T04:26:28.370Z",
+      "scrapedAt": "2026-10-29T18:07:41.364Z",
       "category": "Other",
       "categoryEmoji": "📌",
       "matchedCategories": [],
@@ -480,7 +541,7 @@
       "groupSlug": "devops-society",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-10-29T04:24:05.802Z",
+      "scrapedAt": "2026-10-29T18:04:57.859Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -514,7 +575,7 @@
       "groupSlug": "aws-london-well-architected-user-group",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-10-29T04:26:11.878Z",
+      "scrapedAt": "2026-10-29T18:07:05.581Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -541,7 +602,7 @@
       "groupSlug": "cloud-native-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-10-29T04:20:50.794Z",
+      "scrapedAt": "2026-10-29T18:01:42.324Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -570,6 +631,33 @@
       "score": 41
     },
     {
+      "id": "317192141",
+      "title": "Building your AI software factory",
+      "description": "Join Matar Peles, Field CTO at Port, to explore how enterprises build their AI software factory, starting from building a strong foundation with governed a",
+      "startDate": "2026-12-10T18:00:00.000Z",
+      "location": "TBC",
+      "rsvpCount": null,
+      "isOnline": true,
+      "eventUrl": "https://www.meetup.com/platform-engineers-london/events/317192141/",
+      "groupUrl": "https://www.meetup.com/platform-engineers-london/",
+      "groupSlug": "platform-engineers-london",
+      "groupName": "Meetup",
+      "source": "public Meetup page",
+      "scrapedAt": "2026-10-29T18:04:10.144Z",
+      "category": "Cloud / Platform / DevOps",
+      "categoryEmoji": "☁️",
+      "matchedCategories": [
+        {
+          "name": "Cloud / Platform / DevOps",
+          "emoji": "☁️",
+          "hits": [
+            "platform"
+          ]
+        }
+      ],
+      "score": 36
+    },
+    {
       "id": "311927084",
       "title": "AWS User Group UK Meetup #81",
       "description": "Welcome to our December event. More details to follow A big thank you to our sponsors [Cloudscaler](https://rebrand.ly/cloudscaler) & [Rayo](https://rebr",
@@ -582,7 +670,7 @@
       "groupSlug": "awsuguk",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-10-29T04:20:27.341Z",
+      "scrapedAt": "2026-10-29T18:01:17.684Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -610,7 +698,7 @@
       "groupSlug": "cloud-native-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-10-29T04:20:52.627Z",
+      "scrapedAt": "2026-10-29T18:01:44.098Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
