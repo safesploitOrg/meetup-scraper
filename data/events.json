@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T19:00:26.397Z",
+  "generatedAt": "2026-11-04T04:46:56.279Z",
   "daysAhead": 90,
   "groupCount": 22,
   "groups": [
@@ -144,7 +144,7 @@
       "groupSlug": "cloud-native-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-03T19:02:21.686Z",
+      "scrapedAt": "2026-11-04T04:48:49.102Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -185,7 +185,7 @@
       "groupSlug": "platform-engineers-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-03T19:04:22.138Z",
+      "scrapedAt": "2026-11-04T04:51:00.144Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -212,7 +212,7 @@
       "groupSlug": "platform-engineers-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-03T19:04:23.961Z",
+      "scrapedAt": "2026-11-04T04:51:01.878Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -234,6 +234,25 @@
       "score": 36
     },
     {
+      "id": "317275874",
+      "title": "Every Batman Needs AI Agents w/ Notion",
+      "description": "No superhero leaves home without their Robin. Join us for an exploration of AI agents: how they work, what they can actually *do*, and the workflows you ne",
+      "startDate": "2026-11-10T18:30:00.000Z",
+      "location": "Brewhouse & Kitchen - Highbury, 2A Corsica St, London N5 1JJ, UK, London, 17, London, 17, gb",
+      "rsvpCount": null,
+      "isOnline": true,
+      "eventUrl": "https://www.meetup.com/vibe-coding-collective/events/317275874/",
+      "groupUrl": "https://www.meetup.com/vibe-coding-collective/",
+      "groupSlug": "vibe-coding-collective",
+      "groupName": "Meetup",
+      "source": "public Meetup page",
+      "scrapedAt": "2026-11-04T04:51:14.181Z",
+      "category": "Other",
+      "categoryEmoji": "📌",
+      "matchedCategories": [],
+      "score": 0
+    },
+    {
       "id": "317007328",
       "title": "Near-zero time to resolution: Agentic workflows for failed and drifted IaC",
       "description": "When infrastructure fails or drifts, resolution still looks like it did a decade ago: a human reads logs, pieces together what changed and hand-writes a fi",
@@ -246,7 +265,7 @@
       "groupSlug": "platform-engineers-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-03T19:04:25.769Z",
+      "scrapedAt": "2026-11-04T04:51:03.610Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -274,7 +293,7 @@
       "groupSlug": "devops-society",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-03T19:05:41.586Z",
+      "scrapedAt": "2026-11-04T04:51:59.468Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -309,7 +328,7 @@
       "groupSlug": "devsecops-london-gathering",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-03T19:00:50.472Z",
+      "scrapedAt": "2026-11-04T04:47:21.537Z",
       "category": "Security / DevSecOps",
       "categoryEmoji": "🛡️",
       "matchedCategories": [
@@ -343,7 +362,7 @@
       "groupSlug": "awsuguk",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-03T19:01:57.119Z",
+      "scrapedAt": "2026-11-04T04:48:25.947Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -371,7 +390,7 @@
       "groupSlug": "platform-engineers-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-03T19:04:27.532Z",
+      "scrapedAt": "2026-11-04T04:51:05.364Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -405,7 +424,7 @@
       "groupSlug": "owasp-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-03T19:07:04.116Z",
+      "scrapedAt": "2026-11-04T04:53:18.463Z",
       "category": "Security / DevSecOps",
       "categoryEmoji": "🛡️",
       "matchedCategories": [
@@ -432,7 +451,7 @@
       "groupSlug": "platform-engineers-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-03T19:04:30.971Z",
+      "scrapedAt": "2026-11-04T04:51:07.149Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -447,6 +466,25 @@
       "score": 44
     },
     {
+      "id": "317276871",
+      "title": "Vibe Coding Hangout (w/ Lovable) - 6pm",
+      "description": "NOTE: Our Meetup page is registered in London, so the time auto-fills with GMT as the timezone, but rest assured this event's at **6pm New York time (EST)*",
+      "startDate": "2026-11-24T18:00:00.000Z",
+      "location": "20 Jay St, 20 Jay St, Brooklyn, NY 11201, USA, Brooklyn, NY, Brooklyn, NY, us",
+      "rsvpCount": null,
+      "isOnline": true,
+      "eventUrl": "https://www.meetup.com/vibe-coding-collective/events/317276871/",
+      "groupUrl": "https://www.meetup.com/vibe-coding-collective/",
+      "groupSlug": "vibe-coding-collective",
+      "groupName": "Meetup",
+      "source": "public Meetup page",
+      "scrapedAt": "2026-11-04T04:51:15.998Z",
+      "category": "Other",
+      "categoryEmoji": "📌",
+      "matchedCategories": [],
+      "score": 0
+    },
+    {
       "id": "314461935",
       "title": "Christmas Raspberry Pint : Raspberry Pi and other Digital Making Fun",
       "description": "Join us for presentations and discussions about making things with Raspberry Pis and Micro-controllers. This is a Hybrid Meeting. We will be holding at 'Th",
@@ -459,7 +497,7 @@
       "groupSlug": "raspberry-pint-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-03T19:08:05.946Z",
+      "scrapedAt": "2026-11-04T04:54:26.786Z",
       "category": "Other",
       "categoryEmoji": "📌",
       "matchedCategories": [],
@@ -478,7 +516,7 @@
       "groupSlug": "devops-society",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-03T19:05:43.371Z",
+      "scrapedAt": "2026-11-04T04:52:01.227Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -512,7 +550,7 @@
       "groupSlug": "aws-london-well-architected-user-group",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-03T19:07:47.348Z",
+      "scrapedAt": "2026-11-04T04:54:07.996Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -539,7 +577,7 @@
       "groupSlug": "cloud-native-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-03T19:02:23.538Z",
+      "scrapedAt": "2026-11-04T04:48:50.619Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -580,7 +618,7 @@
       "groupSlug": "platform-engineers-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-03T19:04:32.832Z",
+      "scrapedAt": "2026-11-04T04:51:08.875Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -607,7 +645,7 @@
       "groupSlug": "awsuguk",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-03T19:01:58.883Z",
+      "scrapedAt": "2026-11-04T04:48:27.696Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -635,7 +673,7 @@
       "groupSlug": "cloud-native-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-03T19:02:25.345Z",
+      "scrapedAt": "2026-11-04T04:48:52.136Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
