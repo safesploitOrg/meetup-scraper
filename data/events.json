@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T05:51:23.905Z",
+  "generatedAt": "2026-11-19T19:55:51.907Z",
   "daysAhead": 90,
   "groupCount": 22,
   "groups": [
@@ -144,7 +144,7 @@
       "groupSlug": "london-microservices",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-19T05:54:53.507Z",
+      "scrapedAt": "2026-11-19T19:59:24.669Z",
       "category": "Professional / Conference",
       "categoryEmoji": "💼",
       "matchedCategories": [
@@ -171,7 +171,7 @@
       "groupSlug": "platform-engineers-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-19T05:55:32.330Z",
+      "scrapedAt": "2026-11-19T19:59:52.967Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -205,7 +205,7 @@
       "groupSlug": "owasp-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-19T05:57:42.805Z",
+      "scrapedAt": "2026-11-19T20:02:16.389Z",
       "category": "Security / DevSecOps",
       "categoryEmoji": "🛡️",
       "matchedCategories": [
@@ -232,7 +232,7 @@
       "groupSlug": "platform-engineers-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-19T05:55:34.154Z",
+      "scrapedAt": "2026-11-19T19:59:48.006Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -259,7 +259,7 @@
       "groupSlug": "vibe-coding-collective",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-19T05:55:40.851Z",
+      "scrapedAt": "2026-11-19T20:00:14.258Z",
       "category": "Other",
       "categoryEmoji": "📌",
       "matchedCategories": [],
@@ -278,7 +278,7 @@
       "groupSlug": "raspberry-pint-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-19T05:58:45.868Z",
+      "scrapedAt": "2026-11-19T20:03:23.122Z",
       "category": "Other",
       "categoryEmoji": "📌",
       "matchedCategories": [],
@@ -297,7 +297,7 @@
       "groupSlug": "owasp-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-19T05:57:44.578Z",
+      "scrapedAt": "2026-11-19T20:02:18.135Z",
       "category": "Security / DevSecOps",
       "categoryEmoji": "🛡️",
       "matchedCategories": [
@@ -325,7 +325,7 @@
       "groupSlug": "londonlinux",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-19T05:54:29.666Z",
+      "scrapedAt": "2026-11-19T19:59:03.126Z",
       "category": "Linux / Open Source",
       "categoryEmoji": "🐧",
       "matchedCategories": [
@@ -359,7 +359,7 @@
       "groupSlug": "devops-society",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-19T05:56:27.109Z",
+      "scrapedAt": "2026-11-19T20:01:01.071Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -386,7 +386,7 @@
       "groupSlug": "aws-london-well-architected-user-group",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-19T05:58:27.349Z",
+      "scrapedAt": "2026-11-19T20:03:03.201Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -413,7 +413,7 @@
       "groupSlug": "vibe-coding-collective",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-19T05:55:42.584Z",
+      "scrapedAt": "2026-11-19T20:00:16.055Z",
       "category": "Professional / Conference",
       "categoryEmoji": "💼",
       "matchedCategories": [
@@ -440,7 +440,7 @@
       "groupSlug": "cloud-native-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-19T05:53:15.464Z",
+      "scrapedAt": "2026-11-19T19:57:44.970Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -481,7 +481,7 @@
       "groupSlug": "grafana-and-friends-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-19T05:54:04.862Z",
+      "scrapedAt": "2026-11-19T19:58:38.577Z",
       "category": "Observability / SRE",
       "categoryEmoji": "📈",
       "matchedCategories": [
@@ -523,7 +523,7 @@
       "groupSlug": "javascript-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-19T05:56:05.619Z",
+      "scrapedAt": "2026-11-19T20:00:38.813Z",
       "category": "Observability / SRE",
       "categoryEmoji": "📈",
       "matchedCategories": [
@@ -550,7 +550,7 @@
       "groupSlug": "platform-engineers-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-19T05:55:35.867Z",
+      "scrapedAt": "2026-11-19T19:59:51.165Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -577,7 +577,7 @@
       "groupSlug": "awsuguk",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-19T05:52:52.514Z",
+      "scrapedAt": "2026-11-19T19:57:21.364Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -605,7 +605,7 @@
       "groupSlug": "cloud-native-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-19T05:53:16.989Z",
+      "scrapedAt": "2026-11-19T19:57:46.827Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -653,7 +653,7 @@
       "groupSlug": "cloud-native-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-19T05:53:18.513Z",
+      "scrapedAt": "2026-11-19T19:57:48.689Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
