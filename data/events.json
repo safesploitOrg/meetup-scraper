@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T05:42:09.664Z",
+  "generatedAt": "2026-11-23T23:21:50.256Z",
   "daysAhead": 90,
   "groupCount": 22,
   "groups": [
@@ -144,7 +144,7 @@
       "groupSlug": "platform-engineers-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-23T05:46:24.129Z",
+      "scrapedAt": "2026-11-23T23:25:49.253Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -171,7 +171,7 @@
       "groupSlug": "vibe-coding-collective",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-23T05:46:30.863Z",
+      "scrapedAt": "2026-11-23T23:26:19.485Z",
       "category": "Other",
       "categoryEmoji": "📌",
       "matchedCategories": [],
@@ -190,7 +190,7 @@
       "groupSlug": "raspberry-pint-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-23T05:49:44.232Z",
+      "scrapedAt": "2026-11-23T23:29:22.845Z",
       "category": "Other",
       "categoryEmoji": "📌",
       "matchedCategories": [],
@@ -209,7 +209,7 @@
       "groupSlug": "london-microservices",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-23T05:45:42.021Z",
+      "scrapedAt": "2026-11-23T23:25:25.279Z",
       "category": "Security / DevSecOps",
       "categoryEmoji": "🛡️",
       "matchedCategories": [
@@ -250,7 +250,7 @@
       "groupSlug": "owasp-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-23T05:48:39.521Z",
+      "scrapedAt": "2026-11-23T23:28:23.113Z",
       "category": "Security / DevSecOps",
       "categoryEmoji": "🛡️",
       "matchedCategories": [
@@ -278,7 +278,7 @@
       "groupSlug": "londonlinux",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-23T05:45:19.427Z",
+      "scrapedAt": "2026-11-23T23:25:02.063Z",
       "category": "Linux / Open Source",
       "categoryEmoji": "🐧",
       "matchedCategories": [
@@ -312,7 +312,7 @@
       "groupSlug": "devops-society",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-23T05:47:21.811Z",
+      "scrapedAt": "2026-11-23T23:27:08.525Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -339,7 +339,7 @@
       "groupSlug": "aws-london-well-architected-user-group",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-23T05:49:25.974Z",
+      "scrapedAt": "2026-11-23T23:29:04.727Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -366,7 +366,7 @@
       "groupSlug": "vibe-coding-collective",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-23T05:46:32.904Z",
+      "scrapedAt": "2026-11-23T23:26:21.042Z",
       "category": "Professional / Conference",
       "categoryEmoji": "💼",
       "matchedCategories": [
@@ -393,7 +393,7 @@
       "groupSlug": "cloud-native-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-23T05:44:02.704Z",
+      "scrapedAt": "2026-11-23T23:23:43.072Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -434,7 +434,7 @@
       "groupSlug": "grafana-and-friends-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-23T05:44:54.313Z",
+      "scrapedAt": "2026-11-23T23:24:35.993Z",
       "category": "Observability / SRE",
       "categoryEmoji": "📈",
       "matchedCategories": [
@@ -476,7 +476,7 @@
       "groupSlug": "javascript-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-23T05:46:57.801Z",
+      "scrapedAt": "2026-11-23T23:26:45.131Z",
       "category": "Observability / SRE",
       "categoryEmoji": "📈",
       "matchedCategories": [
@@ -491,6 +491,41 @@
       "score": 37
     },
     {
+      "id": "317554460",
+      "title": "Everything you need to know about AI SRE: Cost down, and value up",
+      "description": "AI coding has made an AI SRE something any team can build in a hackathon, while making incidents harder to understand. The hard part comes later, when the",
+      "startDate": "2026-12-08T18:00:00.000Z",
+      "location": "TBC",
+      "rsvpCount": null,
+      "isOnline": true,
+      "eventUrl": "https://www.meetup.com/platform-engineers-london/events/317554460/",
+      "groupUrl": "https://www.meetup.com/platform-engineers-london/",
+      "groupSlug": "platform-engineers-london",
+      "groupName": "Meetup",
+      "source": "public Meetup page",
+      "scrapedAt": "2026-11-23T23:25:51.229Z",
+      "category": "Cloud / Platform / DevOps",
+      "categoryEmoji": "☁️",
+      "matchedCategories": [
+        {
+          "name": "Cloud / Platform / DevOps",
+          "emoji": "☁️",
+          "hits": [
+            "platform",
+            "sre"
+          ]
+        },
+        {
+          "name": "Observability / SRE",
+          "emoji": "📈",
+          "hits": [
+            "incident"
+          ]
+        }
+      ],
+      "score": 44
+    },
+    {
       "id": "317192141",
       "title": "Building your AI software factory",
       "description": "Join Matar Peles, Field CTO at Port, to explore how enterprises build their AI software factory, starting from building a strong foundation with governed a",
@@ -503,7 +538,7 @@
       "groupSlug": "platform-engineers-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-23T05:46:26.087Z",
+      "scrapedAt": "2026-11-23T23:25:52.979Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -518,6 +553,52 @@
       "score": 36
     },
     {
+      "id": "317554510",
+      "title": "Beyond glue scripts: Orchestrating TF, Ansible, K8s & self-service infra",
+      "description": "Every platform team already has the tools: Terraform for infrastructure, Ansible for configuration, Docker and Kubernetes for workloads, Prometheus and Gra",
+      "startDate": "2026-12-15T18:00:00.000Z",
+      "location": "TBC",
+      "rsvpCount": null,
+      "isOnline": true,
+      "eventUrl": "https://www.meetup.com/platform-engineers-london/events/317554510/",
+      "groupUrl": "https://www.meetup.com/platform-engineers-london/",
+      "groupSlug": "platform-engineers-london",
+      "groupName": "Meetup",
+      "source": "public Meetup page",
+      "scrapedAt": "2026-11-23T23:25:54.738Z",
+      "category": "Cloud / Platform / DevOps",
+      "categoryEmoji": "☁️",
+      "matchedCategories": [
+        {
+          "name": "Cloud / Platform / DevOps",
+          "emoji": "☁️",
+          "hits": [
+            "platform",
+            "infrastructure",
+            "terraform",
+            "ansible"
+          ]
+        },
+        {
+          "name": "Kubernetes / Cloud Native",
+          "emoji": "☸️",
+          "hits": [
+            "kubernetes",
+            "k8s",
+            "docker"
+          ]
+        },
+        {
+          "name": "Observability / SRE",
+          "emoji": "📈",
+          "hits": [
+            "prometheus"
+          ]
+        }
+      ],
+      "score": 60
+    },
+    {
       "id": "311927084",
       "title": "AWS User Group UK Meetup #81",
       "description": "Welcome to our December event. More details to follow A big thank you to our sponsors [Cloudscaler](https://rebrand.ly/cloudscaler) & [Rayo](https://rebr",
@@ -530,7 +611,7 @@
       "groupSlug": "awsuguk",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-23T05:43:39.721Z",
+      "scrapedAt": "2026-11-23T23:23:21.017Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -546,6 +627,33 @@
       "score": 49
     },
     {
+      "id": "317554397",
+      "title": "Platform engineering in 2026: What changed, AI agents, and what comes next",
+      "description": "In 2025, nearly every platform engineer used AI, but few saw a return. In 2026 that changed. With the State of AI in Platform Engineering Volume 2, the fou",
+      "startDate": "2026-12-16T18:00:00.000Z",
+      "location": "TBC",
+      "rsvpCount": null,
+      "isOnline": true,
+      "eventUrl": "https://www.meetup.com/platform-engineers-london/events/317554397/",
+      "groupUrl": "https://www.meetup.com/platform-engineers-london/",
+      "groupSlug": "platform-engineers-london",
+      "groupName": "Meetup",
+      "source": "public Meetup page",
+      "scrapedAt": "2026-11-23T23:25:56.572Z",
+      "category": "Cloud / Platform / DevOps",
+      "categoryEmoji": "☁️",
+      "matchedCategories": [
+        {
+          "name": "Cloud / Platform / DevOps",
+          "emoji": "☁️",
+          "hits": [
+            "platform"
+          ]
+        }
+      ],
+      "score": 36
+    },
+    {
       "id": "316885247",
       "title": "Cloud Native London, January 2027",
       "description": "Hi folks! Welcome to our January Cloud Native London meetup! Join us to hear from our three great speakers and network with your fellow techies over pizza",
@@ -558,7 +666,7 @@
       "groupSlug": "cloud-native-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-23T05:44:04.481Z",
+      "scrapedAt": "2026-11-23T23:23:44.975Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -606,7 +714,7 @@
       "groupSlug": "vibe-coding-collective",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-23T05:46:34.675Z",
+      "scrapedAt": "2026-11-23T23:26:22.829Z",
       "category": "Social / Community",
       "categoryEmoji": "🍻",
       "matchedCategories": [
@@ -633,7 +741,7 @@
       "groupSlug": "cloud-native-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-23T05:44:06.391Z",
+      "scrapedAt": "2026-11-23T23:23:46.775Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
