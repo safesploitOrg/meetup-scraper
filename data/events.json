@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T23:21:50.256Z",
+  "generatedAt": "2026-11-24T08:19:43.081Z",
   "daysAhead": 90,
   "groupCount": 22,
   "groups": [
@@ -144,7 +144,7 @@
       "groupSlug": "platform-engineers-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-23T23:25:49.253Z",
+      "scrapedAt": "2026-11-24T08:23:49.186Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -171,7 +171,7 @@
       "groupSlug": "vibe-coding-collective",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-23T23:26:19.485Z",
+      "scrapedAt": "2026-11-24T08:24:02.396Z",
       "category": "Other",
       "categoryEmoji": "📌",
       "matchedCategories": [],
@@ -190,7 +190,7 @@
       "groupSlug": "raspberry-pint-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-23T23:29:22.845Z",
+      "scrapedAt": "2026-11-24T08:27:28.809Z",
       "category": "Other",
       "categoryEmoji": "📌",
       "matchedCategories": [],
@@ -209,7 +209,7 @@
       "groupSlug": "london-microservices",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-23T23:25:25.279Z",
+      "scrapedAt": "2026-11-24T08:23:07.820Z",
       "category": "Security / DevSecOps",
       "categoryEmoji": "🛡️",
       "matchedCategories": [
@@ -250,7 +250,7 @@
       "groupSlug": "owasp-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-23T23:28:23.113Z",
+      "scrapedAt": "2026-11-24T08:26:06.497Z",
       "category": "Security / DevSecOps",
       "categoryEmoji": "🛡️",
       "matchedCategories": [
@@ -278,7 +278,7 @@
       "groupSlug": "londonlinux",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-23T23:25:02.063Z",
+      "scrapedAt": "2026-11-24T08:23:04.027Z",
       "category": "Linux / Open Source",
       "categoryEmoji": "🐧",
       "matchedCategories": [
@@ -312,7 +312,7 @@
       "groupSlug": "devops-society",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-23T23:27:08.525Z",
+      "scrapedAt": "2026-11-24T08:24:51.016Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -339,7 +339,7 @@
       "groupSlug": "aws-london-well-architected-user-group",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-23T23:29:04.727Z",
+      "scrapedAt": "2026-11-24T08:26:51.036Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -366,7 +366,7 @@
       "groupSlug": "vibe-coding-collective",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-23T23:26:21.042Z",
+      "scrapedAt": "2026-11-24T08:24:04.141Z",
       "category": "Professional / Conference",
       "categoryEmoji": "💼",
       "matchedCategories": [
@@ -393,7 +393,7 @@
       "groupSlug": "cloud-native-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-23T23:23:43.072Z",
+      "scrapedAt": "2026-11-24T08:21:30.202Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -434,7 +434,7 @@
       "groupSlug": "grafana-and-friends-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-23T23:24:35.993Z",
+      "scrapedAt": "2026-11-24T08:22:19.862Z",
       "category": "Observability / SRE",
       "categoryEmoji": "📈",
       "matchedCategories": [
@@ -464,6 +464,33 @@
       "score": 42
     },
     {
+      "id": "317559603",
+      "title": "OWASP London Chapter Meetup -NOTE: REGISTER ON EVENTBRITE!",
+      "description": "**NOTE: REGISTRATION IS ON EVENTBRITE** You can register to attend this event here: [https://www.eventbrite.co.uk/e/2004987896772](https://www.eventbrite.",
+      "startDate": "2026-12-02T18:00:00.000Z",
+      "location": "London, 17, gb",
+      "rsvpCount": null,
+      "isOnline": true,
+      "eventUrl": "https://www.meetup.com/owasp-london/events/317559603/",
+      "groupUrl": "https://www.meetup.com/owasp-london/",
+      "groupSlug": "owasp-london",
+      "groupName": "Meetup",
+      "source": "public Meetup page",
+      "scrapedAt": "2026-11-24T08:26:08.225Z",
+      "category": "Security / DevSecOps",
+      "categoryEmoji": "🛡️",
+      "matchedCategories": [
+        {
+          "name": "Security / DevSecOps",
+          "emoji": "🛡️",
+          "hits": [
+            "owasp"
+          ]
+        }
+      ],
+      "score": 45
+    },
+    {
       "id": "317296463",
       "title": "JavaScript London in Collaboration with Zilch",
       "description": "**Hi JavaScript London,** London's biggest JavaScript meetup is back, sponsored by Zilch and hosted by Wave Mind at Wave's offices. Grab a slice, grab a",
@@ -476,7 +503,7 @@
       "groupSlug": "javascript-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-23T23:26:45.131Z",
+      "scrapedAt": "2026-11-24T08:24:27.700Z",
       "category": "Observability / SRE",
       "categoryEmoji": "📈",
       "matchedCategories": [
@@ -503,7 +530,7 @@
       "groupSlug": "platform-engineers-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-23T23:25:51.229Z",
+      "scrapedAt": "2026-11-24T08:23:51.613Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -526,6 +553,41 @@
       "score": 44
     },
     {
+      "id": "317560325",
+      "title": "OWASP AI & Agentic Security Summit - Register on Luma",
+      "description": "Register here: https://luma.com/cyc69yq9 ## OWASP GeAI Project Agentic AI Security Summit Europe, 2026 Join OWASP GenAI Security Project leaders, researc",
+      "startDate": "2026-12-09T10:00:00.000Z",
+      "location": "Crowne Plaza Docklands, Royal Victoria Dock, Western Gateway, London E16 1AL, UK, London, 17, London, 17, gb",
+      "rsvpCount": null,
+      "isOnline": true,
+      "eventUrl": "https://www.meetup.com/owasp-london/events/317560325/",
+      "groupUrl": "https://www.meetup.com/owasp-london/",
+      "groupSlug": "owasp-london",
+      "groupName": "Meetup",
+      "source": "public Meetup page",
+      "scrapedAt": "2026-11-24T08:26:09.971Z",
+      "category": "Security / DevSecOps",
+      "categoryEmoji": "🛡️",
+      "matchedCategories": [
+        {
+          "name": "Security / DevSecOps",
+          "emoji": "🛡️",
+          "hits": [
+            "security",
+            "owasp"
+          ]
+        },
+        {
+          "name": "Professional / Conference",
+          "emoji": "💼",
+          "hits": [
+            "summit"
+          ]
+        }
+      ],
+      "score": 53
+    },
+    {
       "id": "317192141",
       "title": "Building your AI software factory",
       "description": "Join Matar Peles, Field CTO at Port, to explore how enterprises build their AI software factory, starting from building a strong foundation with governed a",
@@ -538,7 +600,7 @@
       "groupSlug": "platform-engineers-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-23T23:25:52.979Z",
+      "scrapedAt": "2026-11-24T08:23:53.462Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -565,7 +627,7 @@
       "groupSlug": "platform-engineers-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-23T23:25:54.738Z",
+      "scrapedAt": "2026-11-24T08:23:55.217Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -611,7 +673,7 @@
       "groupSlug": "awsuguk",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-23T23:23:21.017Z",
+      "scrapedAt": "2026-11-24T08:21:09.199Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -639,7 +701,7 @@
       "groupSlug": "platform-engineers-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-23T23:25:56.572Z",
+      "scrapedAt": "2026-11-24T08:23:56.956Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -666,7 +728,7 @@
       "groupSlug": "cloud-native-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-23T23:23:44.975Z",
+      "scrapedAt": "2026-11-24T08:21:31.757Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
@@ -714,7 +776,7 @@
       "groupSlug": "vibe-coding-collective",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-23T23:26:22.829Z",
+      "scrapedAt": "2026-11-24T08:24:06.010Z",
       "category": "Social / Community",
       "categoryEmoji": "🍻",
       "matchedCategories": [
@@ -741,7 +803,7 @@
       "groupSlug": "cloud-native-london",
       "groupName": "Meetup",
       "source": "public Meetup page",
-      "scrapedAt": "2026-11-23T23:23:46.775Z",
+      "scrapedAt": "2026-11-24T08:21:33.314Z",
       "category": "Cloud / Platform / DevOps",
       "categoryEmoji": "☁️",
       "matchedCategories": [
